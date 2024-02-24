@@ -1,6 +1,8 @@
 # 💫 About Me:
 🤔 Explorando novas tecnologias e desenvolvendo aplicativos.<br>📚 Estudando Análise de Desenvolvimento de Sistemas no SENAI Suiço Brasileiro.<br>💼 Estagiando na Telefonica Tech IoT BIG DATA.<br>🌱 Aprendendo mais sobre Front-end, Back-end, Banco-de-dados e Mobile
 
+<img src= "https://www.89a.co.uk/post/51383918804/crash" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brennon-meireles/) 
