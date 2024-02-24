@@ -1,3 +1,6 @@
+# 💫 About Me:
+🤔 Explorando novas tecnologias e desenvolvendo aplicativos.<br>📚 Estudando Análise de Desenvolvimento de Sistemas no SENAI Suiço Brasileiro.<br>💼 Estagiando na Telefonica Tech IoT BIG DATA.<br>🌱 Aprendendo mais sobre Front-end, Back-end, Banco-de-dados e Mobile
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brennon-meireles/) 
@@ -11,3 +14,5 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BrennonMeireles&icon=0&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
