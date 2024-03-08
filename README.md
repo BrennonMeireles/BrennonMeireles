@@ -22,6 +22,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=BrennonMeireles&theme=radical&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
 </center>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=BrennonMeireles&icon=0&color=1)](https://visitcount.itsvg.in)
 
