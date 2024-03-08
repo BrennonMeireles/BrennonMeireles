@@ -3,7 +3,10 @@
 <img src="https://user-images.githubusercontent.com/74038190/212750996-938b257b-266c-45a7-9af7-655341c0f58b.gif" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right" border-radius = "5px" >
 
 
-🤔 Explorando novas tecnologias e desenvolvendo aplicativos.<br>📚 Estudando Análise de Desenvolvimento de Sistemas no SENAI Suiço Brasileiro.<br>💼 Estagiando na Telefonica Tech IoT BIG DATA.<br>🌱 Aprendendo mais sobre Front-end, Back-end, Banco-de-dados e Mobile
+🤔 Explorando novas tecnologias e desenvolvendo aplicativos.<br>
+📚 Estudando Análise de Desenvolvimento de Sistemas no SENAI Suiço Brasileiro.<br>
+💼 Estagiando na Telefonica Tech IoT BIG DATA.<br>
+🌱 Aprendendo mais sobre Front-end, Back-end, Banco-de-dados e Mobile
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/brennon-meireles/) 
